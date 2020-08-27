@@ -1,4 +1,4 @@
-# Ansible Hadoop
+# Ansible Hadoop - 3.2.1
 
 Ansible role to install/configure [Hadoop](https://hadoop.apache.org/)
 
